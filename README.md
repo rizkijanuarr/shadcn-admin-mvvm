@@ -57,4 +57,4 @@ Start the server
 
 ## Detail Project
 
-Go to [Detail Project](https://github.com/rizkijanuarr/shacdn-admin-mvvm/docs/STRUCTURAL_PROJECT.md)
+Go to [Detail Project](https://github.com/rizkijanuarr/shacdn-admin-mvvm/blob/master/docs/STRUCTURAL_PROJECT.md)
