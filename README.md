@@ -34,7 +34,7 @@ Admin Dashboard UI Starter crafted with Shadcn and Vite. And Inspired by [Satnai
 Clone the project
 
 ```bash
-  git clone https://github.com/rizkijanuarr/shacdn-admin-mvvm.git
+  git clone https://github.com/rizkijanuarr/shadcn-admin-mvvm.git
 ```
 
 Go to the project directory
