@@ -1,5 +1,7 @@
 # Shadcn Admin Dashboard Starter
 
+![Cover Image](thumbnail.png)
+
 Admin Dashboard UI Starter crafted with Shadcn and Vite. And Inspired by [Satnaing](https://github.com/satnaing/shadcn-admin)
 
 ## Architecture
